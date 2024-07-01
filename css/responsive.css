@@ -1,0 +1,22 @@
+@media (max-width:991px){
+  h6 {
+    font-size:15px;
+    color: red;
+}
+h2 {
+
+  font-size:36px;
+  font-weight: 400;
+  
+}
+  .man{
+    max-width: 100%;
+  }
+} 
+
+/* about section */
+ @media(min-width:320px) and (max-width:991px){
+  #about img{
+    max-width: 100%;
+  }
+ }
